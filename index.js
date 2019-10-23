@@ -3,7 +3,7 @@
     alert('Click OK to see my website.');
     console.log('this is my website and I am learning how to use javascript properly.')
     console.log('It is still a work in progress.')
-    var x = document.getElementsByClassName("Button");
+    var x = document.getElementsByClassName("This is a button that does things");
 
     $(document).ready(function(){
       $("p").click(function(){
