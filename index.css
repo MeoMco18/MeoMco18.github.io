@@ -1,0 +1,40 @@
+
+
+p{
+    color: orange;
+    font-size: 20px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1{
+    font-size: 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:lightyellow;
+    border-style: outset;
+    border-color: orange;
+    border-width: 3px;
+    border-radius: 10px;
+}
+
+body{
+    background-color:aqua;
+}
+
+p2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:orange;
+    font-size: 20px;
+}
+
+p3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: orange;
+    font-size: 20px;
+}
+
+p4{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:orange;
+    font-size: 20px;
+
+}
